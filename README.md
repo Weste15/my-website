@@ -2,6 +2,7 @@
 
 Updates made on master before rebase
 
-## Purpose
+## Repository Purpose
 
-This file is just a readme file.
+This will be an update that conflicts with the remote version.
+This was edited locally.
